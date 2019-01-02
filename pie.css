@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+.pie{background-color: white;
+    height: auto;
+    width: 100vw;
+    border-top: 1px rgb(78, 136, 40) solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;}
+
+.rs img{width: 50px;
+        }
+
+    
+        .f1{display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+         }
+
+            .credito{display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    font-family:'Montserrat', sans-serif;
+                    text-align: center;
+                
+                }
+
+
+            .credito p a{text-decoration: none;
+                            color: rgb(66, 148, 66)}
+       .credito p a:hover{color:gray;}

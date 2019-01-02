@@ -1,0 +1,14 @@
+@import url("banner.css");
+@import url("menu.css");
+@import url("section.css");
+@import url("pie.css");
+
+body{background-image: url(../img/fondo1.png);
+    background-repeat: repeat;
+width: 100vw;}
+
+    *{margin: 0px;
+    box-sizing: border-box;}
+
+
+
